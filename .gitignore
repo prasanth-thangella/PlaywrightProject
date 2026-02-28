@@ -1,0 +1,42 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Playwright
+test-results/
+playwright-report/
+
+# Environment
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+
+# Temporary
+tmp/
+dist/
+
+# IDE
+.idea/
+
+# Lockfiles
+.pnpm-state.yaml
+
+# Others
+*.tgz
